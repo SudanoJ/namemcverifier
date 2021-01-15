@@ -11,7 +11,7 @@ O NameMC Verifier (em Java) veio de uma inspiração de um amigo meu, que fez o 
 ### Download:
 #### GitHub CLI:
 ```js
-gh repo clone SudanoJ/sdscreenshare
+gh repo clone SudanoJ/namemcverifier
 ```
 
 [namemc-name-check]: https://github.com/pedrokpp/namemc-name-check
